@@ -1,0 +1,21 @@
+[
+    {
+        "id" :1,
+        "username" :"Rasha",
+        "password" :"123",
+        "cart" :[]
+
+    },
+    {
+        "id" :2,
+        "username" :"fadi",
+        "password" :"321",
+        "cart" :[]
+    },
+    {
+        "id" :3,
+        "username" :"Rama",
+        "password" :"132",
+        "cart" :[]
+    }
+]

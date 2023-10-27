@@ -1,0 +1,65 @@
+[
+	{
+		"id": 1,
+		"name": "Couch",
+		"price": 200,
+		"url": "Couch",
+		"category": "Furniture",
+		"description": "200cm X 100cm X 70cm",
+		"img": "/assets/couch.jpg"
+	},
+	{
+		"id": 2,
+		"name": "Chair",
+		"price": 50,
+		"url": "Chair",
+		"category": "Furniture",
+		"description": "60cm X 60cm X 80cm",
+		"img": "/assets/chair.jpg"
+	},
+	{
+		"id": 3,
+		"name": "Blender",
+		"price": 100,
+		"url": "Blender",
+		"category": "Kitchenware",
+		"description": "1000W",
+		"img": "/assets/blender.jpg"
+	},
+	{
+		"id": 4,
+		"name": "Microwave",
+		"price": 100,
+		"url": "Microwave",
+		"category": "Kitchenware",
+		"description": "2000W",
+		"img": "/assets/microwave.jpg"
+	},
+	{
+		"id": 5,
+		"name": "Laptop",
+		"price": 350,
+		"url": "Laptop",
+		"category": "Electronics",
+		"description": "I7 16GB RAM 256GB SSD",
+		"img": "/assets/laptop.jpg"
+	},
+	{
+		"id": 6,
+		"name": "Smart Watch",
+		"price": 200,
+		"url": "Smart-Watch",
+		"category": "Electronics",
+		"description": "Wear OS 5",
+		"img": "/assets/smartwatch.jpg"
+	},
+	{
+		"id": 7,
+		"name": "Samsung S20 5G",
+		"price": 350,
+		"url": "Samsung-S20-5G",
+		"category": "Electronics",
+		"description": "8GB RAM, 128GB Storage, 120Hz Display",
+		"img": "/assets/phone.jpg"
+	}
+]
